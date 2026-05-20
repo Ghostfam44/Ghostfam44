@@ -21,7 +21,7 @@ Working through a structured foundation plan in my home lab:
 ## 🧪 Home Lab
 Running a Proxmox-based virtualization environment to practice
 defensive security in a controlled setting. See my
-[home-lab](link-to-repo) repo for the build, architecture, and
+[home-lab] https://github.com/Ghostfam44/Home-Lab repo for the build, architecture, and
 ongoing projects.
 
 ## 📂 Featured Projects
