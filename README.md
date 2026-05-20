@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Cody Brown👋
 
-<!--
-**Ghostfam44/Ghostfam44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **SOC Analyst / Blue Team** practitioner currently pursuing a Cybersecurity degree.
 
-Here are some ideas to get you started:
+## 🎓 Education & Certifications
+- A.S. in Cybersecurity — Bunker Hill Community College, expected Graduation 2027
+- Cybersecurity Certificate — UMass Global
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Currently Learning
+Working through a structured foundation plan in my home lab:
+
+- **Networking fundamentals** — TCP/IP, subnetting, DNS, DHCP, NAT, VLANs
+- **Packet analysis** with Wireshark
+- **Firewall & network segmentation** using pfSense
+- **Linux & Windows server administration**
+- **Active Directory** fundamentals (attack and defend)
+- **SIEM & log analysis** — planning to deploy Wazuh / Security Onion
+- **Detection engineering** — MITRE ATT&CK, Sigma rules
+- Studying for **CompTIA Security+**
+
+## 🧪 Home Lab
+Running a Proxmox-based virtualization environment to practice
+defensive security in a controlled setting. See my
+[home-lab](link-to-repo) repo for the build, architecture, and
+ongoing projects.
+
+## 📂 Featured Projects
+- [home-lab](#) — Proxmox lab build, network segmentation, logging pipeline
+- [soc-analyst-notes](#) — Study notes on SIEM, log analysis, MITRE ATT&CK
+
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/cody-brown-9a87ba2b0/
+- Email:Morrismalone37@gmail.com
