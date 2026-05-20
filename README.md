@@ -26,7 +26,7 @@ ongoing projects.
 
 ## 📂 Featured Projects
 - [home-lab](#) — Proxmox lab build, network segmentation, logging pipeline
-- [soc-analyst-notes](#) — Study notes on SIEM, log analysis, MITRE ATT&CK
+- [soc-analyst-notes] https://github.com/Ghostfam44/soc-analyst-notes — Study notes on SIEM, log analysis, MITRE ATT&CK
 
 
 ## 📫 Contact
