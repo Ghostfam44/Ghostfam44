@@ -25,7 +25,7 @@ defensive security in a controlled setting. See my
 ongoing projects.
 
 ## 📂 Featured Projects
-- [home-lab](#) — Proxmox lab build, network segmentation, logging pipeline
+- [home-lab] https://github.com/Ghostfam44/Home-Lab — Proxmox lab build, network segmentation, logging pipeline
 - [soc-analyst-notes] https://github.com/Ghostfam44/soc-analyst-notes — Study notes on SIEM, log analysis, MITRE ATT&CK
 
 
