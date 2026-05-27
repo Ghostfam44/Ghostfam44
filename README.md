@@ -28,7 +28,7 @@ ongoing projects.
 - [home-lab] https://github.com/Ghostfam44/Home-Lab — Proxmox lab build, network segmentation, logging pipeline
 - [soc-analyst-notes] https://github.com/Ghostfam44/soc-analyst-notes — Study notes on SIEM, log analysis, MITRE ATT&CK
 
-| 01 | 2026-05-26 | [OPNsense Virtual Firewall with VLAN-Isolated Lab Network](https://github.com/Ghostfam44/Home-Lab/blob/main/activities/01-opnsense-vlan-segmentation.md) | Network segmentation, VLAN tagging, firewall deployment, incident response |
+- | 01 | 2026-05-26 | [OPNsense Virtual Firewall with VLAN-Isolated Lab Network](https://github.com/Ghostfam44/Home-Lab/blob/main/activities/01-opnsense-vlan-segmentation.md) | Network segmentation, VLAN tagging, firewall deployment, incident response |
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/cody-brown-9a87ba2b0/
